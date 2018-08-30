@@ -55,7 +55,7 @@ For example:
       The name of the project, for instance "javaToy"
     </li>
     </ul>
-    Each project name needs to start and finish with ". For example, "leusonmario/javaToy"
+    Each project name needs to start and finish with ". For example, "jpds/javaToy"
   </li>
   <li>
     On the <i>lib</i> directory, run "./MainAnalysisProjects.rb"
